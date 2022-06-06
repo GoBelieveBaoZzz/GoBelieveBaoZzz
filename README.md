@@ -16,7 +16,7 @@
 <div align="center">
   <!-- 个人资料徽标 -->
   <a href="https://rm-rf.fun/"><img src="https://img.shields.io/badge/website-主页-brightgreen" target="_blank"></a>&emsp;
-  <a href="https://blog.rm-rf.fun/"><img src="https://img.shields.io/badge/twitter-博客-blue" target="_blank"></a>&emsp;
+  <a href="https://blog.rm-rf.fun/"><img src="https://img.shields.io/badge/blog-博客-blue" target="_blank"></a>&emsp;
   <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=qq1041663097" alt="访客统计" />
 </div>
@@ -26,7 +26,7 @@
 
 <!-- 简介 -->
 
-# 🙋 简介
+# 🙋‍♂️ 简介
 
 
 
