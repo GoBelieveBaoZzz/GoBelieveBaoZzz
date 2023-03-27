@@ -2,7 +2,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://rm-rf.fun/">
-    <img src="https://upyun.rm-rf.fun/github/images/typing.svg">
+    <img src="https://cdn.staticaly.com/gh/GoBelieveBaoZzz/cdn@main/images/home/typing.svg">
   </a>
 </h1>
 
