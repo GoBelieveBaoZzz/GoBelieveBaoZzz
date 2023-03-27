@@ -8,7 +8,7 @@
 
 <!-- 码代码图 -->
 <div align="center">
-  <img src="https://upyun.rm-rf.fun/github/images/coding.gif">
+  <img src="https://cdn.staticaly.com/gh/GoBelieveBaoZzz/cdn@main/images/home/coding.gif">
 </div>
 
 <br>
@@ -22,7 +22,7 @@
 </div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://upyun.rm-rf.fun/github/images/tanchishe.svg" /></div>
+<div align="center"><img src="https://cdn.staticaly.com/gh/GoBelieveBaoZzz/cdn@main/images/home/tanchishe.svg" /></div>
 
 <!-- 简介 -->
 
